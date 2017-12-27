@@ -1,0 +1,21 @@
+custID;name;ADDR1;ADDR2;city;state;zip;CUSTTYPEID;TYPENAME;Source
+2;Clio-Hutchinson                   ;;1257 Ac Avenue                   ;Butler          ;SC                  ;82126;S;State/Local Government        ;TPCW
+4;Austin Burns                      ;;2041 Venenatis Avenue            ;Alexandria      ;DC                  ;34440;E;Education                     ;TPCW
+6;Austin Ferrell                    ;;8666 Justo Road                  ;Pullman         ;PA                  ;55979;C;Commercial                    ;TPCW
+8;Mullins Inc.                      ;;4009 Ornare Road                 ;Birmingham      ;NE                  ;59509;S;State/Local Government        ;TPCW
+10;Byron Chemicals                   ;;6831 Donec Street                ;Salt Lake City  ;IN                  ;41050;C;Commercial                    ;TPCW
+12;Processing Equipment Corporation  ;;29843 Klingon Road               ;Naperville      ;IL                  ;60563;C;Commercial                    ;TPCW
+14;The Final Frontier                ;;528 Curabitur Road               ;Biddeford       ;MO                  ;39683;S;State/Local Government        ;TPCW
+16;Martinez Disposables              ;;5331 Nunc Avenue                 ;Tucson          ;DC                  ;79991;F;US Government                 ;TPCW
+18;Cross                             ;;6605 Rhoncus Avenue              ;Hopkinsville    ;NH                  ;25620;F;US Government                 ;TPCW
+20;Price Rivers                      ;;2853 Aenean Avenue               ;Sault Ste. Marie;MI                  ;59316;S;State/Local Government        ;TPCW
+22;Santiago Processing               ;;4565 Tempor Avenue               ;Hanahan         ;AK                  ;15743;S;State/Local Government        ;TPCW
+24;Chantale-Huffman Inc.             ;;2761 Infinity Street             ;New Iberia      ;NH                  ;65327;S;State/Local Government        ;TPCW
+26;Ruby Petty                        ;;3142 Congue Street               ;Chicago         ;IL                  ;76404;S;State/Local Government        ;TPCW
+28;Oleg Jones                        ;;5491 Nec Road                    ;Moraga          ;NE                  ;82394;C;Commercial                    ;TPCW
+30;Setron                            ;Dept #80; 3085 Breakthrough Drive         ;Hart            ;MO                  ;64865;S;State/Local Government        ;TPCW
+32;Mendoza Chem                      ;;4826 Urna Avenue                 ;Everett         ;MD                  ;87048;C;Commercial                    ;TPCW
+34;Pulitzer Publishing Company       ;;126 Pathological Circle          ;Woodbury        ;NY                  ;11797;S;State/Local Government        ;TPCW
+36;Charity Inc.                      ;;3254 Hendrerit Avenue            ;Effingham       ;WY                  ;27502;E;Education                     ;TPCW
+38;Blevins                           ;;2571 Donec Avenue                ;Winooski        ;SD                  ;65512;C;Commercial                    ;TPCW
+40;Gte Corporation                   ;Dept #532; 7196 Heaver Lane                ;Winter Garden   ;FL                  ;34777;S;State/Local Government        ;TPCW

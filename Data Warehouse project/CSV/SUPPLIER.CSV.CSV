@@ -1,0 +1,10 @@
+SupplierID_nk;SupplierName;Address1;Address2;CITY;STATE;ZIP;SupplierID_sk
+ 0;PEC                           ;                          ;                      ;                ;  ;00000;1
+ 8;American General Ventures Inc ;Attn : Kimberly Yarborough;1616 Goggles Drive    ;Sterling        ;KS;67579;2
+ 3;Black Hills Corporation       ;Attn : Edena Gilbert      ;1618 Greenland Street ;Tallahassee     ;FL;32304;3
+ 5;Dollar General Corporation    ;Attn : Antoinette Hickey  ;3988 Chanced Ave      ;S Middleton     ;PA;17007;4
+ 9;Fedders Corporation           ;Attn : Virgil Hubert      ;7844 Carelessly Drive ;Overlook        ;WA;98366;5
+ 4;Immunex Corporation           ;Attn : Elbert Glad        ;5841 Pervades Drive   ;Fairfax         ;VA;22035;6
+ 1;Specialty Teleconstructors Inc;Attn : Zylina Cox         ;2161 Chalmers Street  ;Salinas         ;CA;93905;7
+ 0;TPC East                      ;                          ;                      ;                ;  ;00000;8
+ 0;TPC West                      ;                          ;                      ;                ;  ;00000;9

@@ -1,0 +1,21 @@
+CUSTID;NAME;ADDR1;ADDR2;CITY;STATE;ZIP;CUSTTYPEID;TYPENAME;Source
+1;Room Plus Inc                          ;Suite 836;6037 Ecuadorian Street   ;Clinton                ;MI;49236;C;Commercial                    ;TPCE
+3;Beckman Coulter Inc                    ;         ;5841 Pervades Drive      ;Fairfax                ;VA;22035;E;Education                     ;TPCE
+5;Sterling Financial Corp Washington     ;Dept #505;7258 Meriting Avenue     ;Portland               ;OR;97201;E;Education                     ;TPCE
+7;Fedders Corporation                    ;Dept #520;3311 Blatantly Circle    ;Santa Fe Springs       ;CA;90670;E;Education                     ;TPCE
+9;Greate Bay Casino Corp De              ;Dept #242;4255 Depart Lane         ;Randolph Air Force Base;TX;78148;F;US Government                 ;TPCE
+11;Synaptic Pharmaceutical Corp           ;         ;8072 Powerless Street    ;Bridgeport             ;IL;62417;C;Commercial                    ;TPCE
+13;Publishing Co Of North America Inc     ;Suite 518;978 Degrees Street       ;Heron Bay              ;AL;36523;S;State/Local Government        ;TPCE
+15;Railamerica Inc                        ;         ;576 Stew Turnpike        ;Mans De Navarro        ;PR;778;C;Commercial                    ;TPCE
+17;Vev Sa                                 ;         ;7079 Aspect Circle       ;Ross Siding            ;PA;17723;F;US Government                 ;TPCE
+19;Camera Platforms International Inc     ;         ;5347 Deposed Street      ;Houston                ;TX;77244;S;State/Local Government        ;TPCE
+21;Shaw Brothers                          ;Suite 371;2567 Cardinal Drive      ;Whiskey Flats          ;NV;89415;S;State/Local Government        ;TPCE
+23;Ligand Pharmaceuticals Incorporated    ;         ;8092 Bluest Street       ;Moorcroft              ;WY;82721;F;US Government                 ;TPCE
+25;Liberty Homes Inc                      ;         ;3051 Bumblers Lane       ;Medon                  ;TN;38356;F;US Government                 ;TPCE
+27;Lnr Property Corp                      ;         ;9382 Demolition Street   ;College Square         ;IA;50613;F;US Government                 ;TPCE
+29;Usx-steel Group Inc                    ;         ;7120 Whimsically Turnpike;Olympia                ;WA;98501;S;State/Local Government        ;TPCE
+31;Setron                                 ;Dept #80 ;3085 Breakthrough Drive  ;Hart                   ;MO;64865;S;State/Local Government        ;TPCE
+33;Polymer Group Inc                      ;Suite 204;11368 Harder Drive       ;Maidstone              ;VT;5905;C;Commercial                    ;TPCE
+35;Integra -- A Hotel & Restaurant Company;Dept #822;5222 Blazed Street       ;Parsons                ;TN;38363;F;US Government                 ;TPCE
+37;Televideo Inc                          ;Dept #793;939 Publishers Turnpike  ;Fort Hood              ;TX;76544;E;Education                     ;TPCE
+39;Pricellular Corporation                ;Dept #5  ;10947 Eagle Street       ;Lisbon Falls           ;ME;4252;C;Commercial                    ;TPCE

@@ -1,0 +1,46 @@
+prodid;prodDescription;price1;price2;unitCost;supplierName;productTypeID
+5;Flake Photo Equipmentment        ;232.3;204.4;0;        ;1
+12;Chromium Photo Equipmentment     ;565.5;457.5;0;        ;1
+26;Simulations Photo Equipmentment  ;318.4;255.7;0;        ;1
+27;Vastest Photo Equipmentment      ;498.1;442.3;0;        ;1
+43;Bomber Photo Equipmentment       ;461.3;400.4;0;        ;1
+2;Planetesimal Manufacturing Equipm;347.3;307;0;        ;2
+4;Miniaturizing Manufacturing Equip;456.2;379.6;0;        ;2
+7;Bandage Manufacturing Equipment  ;298;267;0;        ;2
+11;Sailors Manufacturing Equipment  ;340.5;290.4;0;        ;2
+16;Insensitivity Manufacturing Equip;200.7;180.4;0;        ;2
+19;Habitually Manufacturing Equipmen;509.3;419.1;0;        ;2
+20;Courthouses Manufacturing Equipme;285.6;243.6;0;        ;2
+22;Extinguisher Manufacturing Equipm;120.4;98.4;0;        ;2
+23;Occlusion Manufacturing Equipment;199.9;177.3;0;        ;2
+30;Suing Manufacturing Equipment    ;482.2;426.7;0;        ;2
+33;Pervasively Manufacturing Equipme;374.1;334.9;0;        ;2
+34;Septembers Manufacturing Equipmen;584.3;523;0;        ;2
+35;Birthdays Manufacturing Equipment;196.6;173.2;0;        ;2
+37;Escape Manufacturing Equipment   ;584.4;523.6;0;        ;2
+39;Disallow Manufacturing Equipment ;165.2;145.9;0;        ;2
+44;Courthouses Manufacturing Equipme;285.6;243.6;0;        ;2
+45;Planetesimal Manufacturing Equipm;347.3;307;0;        ;2
+1;Enumerator Polishing Equipmentmen;165;142.5;0;        ;3
+6;Denigrating Polishing Equipmentme;566;454.5;0;        ;3
+8;Chalmers Polishing Equipmentment ;289.2;242.6;0;        ;3
+15;Syntax Polishing Equipmentment   ;226.7;190.9;0;        ;3
+18;Allis Polishing Equipmentment    ;201.8;176.3;0;        ;3
+21;Weeks Polishing Equipmentment    ;198.8;174.2;0;        ;3
+24;Loaves Polishing Equipmentment   ;425.6;361.3;0;        ;3
+28;Palm Polishing Equipmentment     ;122.4;105.4;0;        ;3
+31;Bellowing Polishing Equipmentment;502.6;451.3;0;        ;3
+36;Duplicator Polishing Equipmentmen;544.3;465.4;0;        ;3
+40;Subclasses Polishing Equipmentmen;282.5;239;0;        ;3
+42;Concentrators Polishing Equipment;584.6;524.9;0;        ;3
+32;Embodying Cleaning Supplies      ;250.9;213.5;207.1;TPC West;5
+9;Defeated Tray Supplies           ;559.7;476.9;448.3;TPC West;8
+10;Chartable Photo Equipmentment    ;410.2;347.4;0;        ;9
+14;Travelings Photo Chemicals       ;274.4;242;225.1;TPC West;9
+29;Millimeters Flushing Chemicals   ;295.6;251.8;241.8;TPC East;10
+25;Automobiles Fillers              ;283.8;227.6;218.5;TPC East;12
+38;Commendation Fillers             ;436.3;380;364.8;TPC West;12
+13;Coward Covers                    ;429.8;349;328.1;TPC East;13
+17;Sortie Covers                    ;248.2;213.2;206.8;TPC East;13
+41;Sulkiness Covers                 ;354.3;289.8;272.4;TPC East;13
+3;Tailor Jacks                     ;509.8;429.7;399.7;TPC West;15

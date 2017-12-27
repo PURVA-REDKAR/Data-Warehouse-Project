@@ -1,0 +1,15 @@
+productTypeID;TYPEDESCRIPTION;BUID
+1;Photo Equipmentment;A   
+2;Manufacturing Equip;A   
+3;Polishing Equipment;A   
+5;Cleaning Supplies  ;B   
+6;Paper Supplies     ;B   
+7;Plastic Supplies   ;B   
+8;Tray Supplies      ;B   
+9;Photo Chemicals    ;C   
+10;Flushing Chemicals ;C   
+11;Freezing Chemicals ;C   
+12;Fillers            ;D   
+13;Covers             ;D   
+14;Lifts              ;D   
+15;Jacks              ;D   

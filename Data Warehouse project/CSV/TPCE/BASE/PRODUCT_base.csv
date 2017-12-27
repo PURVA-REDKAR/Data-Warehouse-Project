@@ -1,0 +1,101 @@
+prodid;prodDescription;price1;price2;productTypeID;SUPPLIERID;unitCost
+50;Restarts Paper Supplies          ;524.4;448.3;6;1;425.9
+86;Soya Cleaning Supplies           ;406.9;345.9;5;1;345.9
+91;Scribble Plastic Supplies        ;492.4;405.7;7;1;397.6
+98;Barrels Flushing Chemicals       ;135.1;116.6;10;1;108.4
+22;Whippers Covers                  ;488.6;410.4;13;1;389.9
+30;Detectives Jacks                 ;283.3;248.5;15;1;236.1
+52;Identical Freezing Chemicals     ;578.1;465.9;11;2;447.3
+57;South Tray Supplies              ;241.3;205.1;8;2;203.1
+65;Extinguisher Manufacturing Equipm;120.4;98.4;2;2;90.5
+75;Deferrable Freezing Chemicals    ;145;124.4;11;2;113.2
+77;Vastest Photo Equipmentment      ;498.1;442.3;1;2;420.2
+82;Numerals Covers                  ;102.9;89;13;2;83.6
+20;Flake Photo Equipmentment        ;232.3;204.4;1;2;194.2
+24;Bandage Manufacturing Equipment  ;298;267;2;2;253.7
+48;Patriarchal Cleaning Supplies    ;351.5;284.8;5;2;264.8
+60;Habitually Manufacturing Equipmen;509.3;419.1;2;3;394
+62;Substances Flushing Chemicals    ;507.3;409.9;10;3;397.6
+69;Hits Tray Supplies               ;439.5;359.1;8;3;341.1
+70;Escape Manufacturing Equipment   ;584.4;523.6;2;3;507.9
+71;Simulations Photo Equipmentment  ;318.4;255.7;1;3;245.4
+79;Siena Plastic Supplies           ;155;136.4;7;3;132.3
+81;Palm Polishing Equipmentment     ;122.4;105.4;3;3;103.3
+96;Drafty Cleaning Supplies         ;107.1;92.7;5;3;89
+97;Stickiest Paper Supplies         ;575.9;502.8;6;3;467.6
+2;Tailor Jacks                     ;509.8;429.7;15;3;399.7
+14;Engle Photo Chemicals            ;429.9;346.1;9;3;342.6
+29;Bluest Fillers                   ;507.4;428.2;12;3;398.2
+32;Chartable Photo Equipmentment    ;410.2;347.4;1;3;312.7
+53;Ruffle Freezing Chemicals        ;476.4;394.9;11;4;379.1
+78;Measured Photo Chemicals         ;318.1;270.7;9;4;254.4
+94;Beliefs Freezing Chemicals       ;566.6;483.9;11;4;454.9
+4;Embodying Cleaning Supplies      ;250.9;213.5;5;4;207.1
+37;Concentrators Polishing Equipment;584.6;524.9;3;4;482.9
+64;Berwick Fillers                  ;583.9;487.5;12;5;463.1
+74;Flanker Fillers                  ;271.4;236.2;12;5;219.6
+76;Scrounge Jacks                   ;301.6;251.2;15;5;248.7
+85;Disallow Manufacturing Equipment ;165.2;145.9;2;5;144.4
+90;Curiouser Cleaning Supplies      ;419.4;364.4;5;5;338.9
+99;Richards Freezing Chemicals      ;529.4;475.4;11;5;470.6
+11;Sulkiness Covers                 ;354.3;289.8;13;5;272.4
+16;Enhanced Covers                  ;461;384.4;13;5;361.4
+23;Decided Tray Supplies            ;233.3;202.3;8;5;198.2
+34;Sailors Manufacturing Equipment  ;340.5;290.4;2;5;278.8
+38;Syntax Polishing Equipmentment   ;226.7;190.9;3;5;177.5
+42;Carelessly Freezing Chemicals    ;559.7;467.9;11;5;425.8
+45;Slacking Jacks                   ;495;400;15;5;388
+47;Significants Freezing Chemicals  ;141.6;113.2;11;5;104.2
+55;Bumblers Plastic Supplies        ;545.3;466.2;7;6;447.6
+61;Courthouses Manufacturing Equipme;285.6;243.6;2;6;231.4
+87;Suing Manufacturing Equipment    ;482.2;426.7;2;6;401.1
+93;Bellowing Polishing Equipmentment;502.6;451.3;3;6;446.8
+6;Planetesimal Manufacturing Equipm;347.3;307;2;6;285.5
+19;Hesitating Jacks                 ;124.5;100.1;15;6;96.1
+21;Denigrating Polishing Equipmentme;566;454.5;3;6;427.2
+33;Consumable Tray Supplies         ;395.7;347.4;8;6;337
+40;Insensitivity Manufacturing Equip;200.7;180.4;2;6;169.6
+44;Birthdays Manufacturing Equipment;196.6;173.2;2;6;161.1
+46;Distantly Paper Supplies         ;518.5;436.1;6;6;418.6
+49;Visage Flushing Chemicals        ;567.8;507.6;10;7;467
+54;Honeymoon Photo Chemicals        ;326.1;292.2;9;7;271.8
+59;Tonnage Plastic Supplies         ;368.8;315.6;7;7;309.3
+63;Weeks Polishing Equipmentment    ;198.8;174.2;3;7;168.9
+67;Occlusion Manufacturing Equipment;199.9;177.3;2;7;164.9
+68;Loaves Polishing Equipmentment   ;425.6;361.3;3;7;354.1
+73;Cosgrove Jacks                   ;298.9;267.8;15;7;254.4
+84;Unjust Paper Supplies            ;222.5;182.2;6;7;176.7
+92;Behind Tray Supplies             ;166.7;139;8;7;129.3
+95;Duplicator Polishing Equipmentmen;544.3;465.4;3;7;432.8
+9;Millimeters Flushing Chemicals   ;295.6;251.8;10;7;241.8
+28;Wonderingly Covers               ;547.2;467.3;13;7;453.3
+39;Overlays Plastic Supplies        ;301.1;254.4;7;7;241.7
+43;Blazed Covers                    ;495;416.8;13;7;404.3
+56;Allis Polishing Equipmentment    ;201.8;176.3;3;8;160.5
+100;Pervasively Manufacturing Equipme;374.1;334.9;2;8;308.1
+1;Enumerator Polishing Equipmentmen;165;142.5;3;8;135.4
+5;Automobiles Fillers              ;283.8;227.6;12;8;218.5
+10;Defeated Tray Supplies           ;559.7;476.9;8;8;448.3
+12;Travelings Photo Chemicals       ;274.4;242;9;8;225.1
+17;Optima Cleaning Supplies         ;288.4;255.5;5;8;242.8
+18;Miniaturizing Manufacturing Equip;456.2;379.6;2;8;353
+25;Chalmers Polishing Equipmentment ;289.2;242.6;3;8;223.2
+36;Bomber Photo Equipmentment       ;461.3;400.4;1;8;380.4
+41;Consideration Tray Supplies      ;172.6;146.8;8;8;139.5
+51;Reflection Lifts                 ;497.9;447.6;14;9;438.6
+58;Characterization Plastic Supplies;231.7;185.6;7;9;168.9
+66;Exemplar Freezing Chemicals      ;198.4;160.9;11;9;152.8
+72;Anthem Tray Supplies             ;134.9;112.4;8;9;109
+80;Temporally Plastic Supplies      ;477.5;408.3;7;9;371.5
+3;Sortie Covers                    ;248.2;213.2;13;9;206.8
+7;Commendation Fillers             ;436.3;380;12;9;364.8
+8;Septembers Manufacturing Equipmen;584.3;523;2;9;517.8
+13;Coward Covers                    ;429.8;349;13;9;328.1
+15;Disposed Fillers                 ;158.8;138;12;9;132.5
+35;Chromium Photo Equipmentment     ;565.5;457.5;1;9;425.5
+83;Horses Lifts                     ;487.3;402.5;14;10;366.3
+88;Vestiges Tray Supplies           ;231.4;192.1;8;10;186.3
+89;Travel Paper Supplies            ;129.8;108.8;6;10;103.4
+26;Subclasses Polishing Equipmentmen;282.5;239;3;10;236.6
+27;Pinnings Plastic Supplies        ;337.2;302.4;7;10;287.3
+31;Simplifier Tray Supplies         ;408.8;349.1;8;10;328.2

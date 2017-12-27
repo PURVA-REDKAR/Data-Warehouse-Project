@@ -1,0 +1,54 @@
+prodid;prodDescription;price1;price2;unitCost;SupplierName;productTypeID;TYPEDESCRIPTION;BUID;Source
+1;Enumerator Polishing Equipmentmen;165;142.5;135.4;American General Ventures Inc ;3;Polishing Equipment;A   ;TPCW
+2;Tailor Jacks                     ;509.8;429.7;399.7;Black Hills Corporation       ;15;Jacks              ;D   ;TPCW
+3;Sortie Covers                    ;248.2;213.2;206.8;Fedders Corporation           ;13;Covers             ;D   ;TPCW
+4;Embodying Cleaning Supplies      ;250.9;213.5;207.1;Immunex Corporation           ;5;Cleaning Supplies  ;B   ;TPCW
+6;Planetesimal Manufacturing Equipm;347.3;307;285.5;First Bancshares Inc Mo       ;2;Manufacturing Equip;A   ;TPCW
+7;Commendation Fillers             ;436.3;380;364.8;Fedders Corporation           ;12;Fillers            ;D   ;TPCW
+13;Coward Covers                    ;429.8;349;328.1;Fedders Corporation           ;13;Covers             ;D   ;TPCW
+15;Disposed Fillers                 ;158.8;138;132.5;Fedders Corporation           ;12;Fillers            ;D   ;TPCW
+18;Miniaturizing Manufacturing Equip;456.2;379.6;353;American General Ventures Inc ;2;Manufacturing Equip;A   ;TPCW
+20;Flake Photo Equipmentment        ;232.3;204.4;194.2;Sinclair Broadcast Group Inc. ;1;Photo Equipmentment;A   ;TPCW
+22;Whippers Covers                  ;488.6;410.4;389.9;Specialty Teleconstructors Inc;13;Covers             ;D   ;TPCW
+23;Decided Tray Supplies            ;233.3;202.3;198.2;Dollar General Corporation    ;8;Tray Supplies      ;B   ;TPCW
+25;Chalmers Polishing Equipmentment ;289.2;242.6;223.2;American General Ventures Inc ;3;Polishing Equipment;A   ;TPCW
+30;Detectives Jacks                 ;283.3;248.5;236.1;Specialty Teleconstructors Inc;15;Jacks              ;D   ;TPCW
+33;Consumable Tray Supplies         ;395.7;347.4;337;First Bancshares Inc Mo       ;8;Tray Supplies      ;B   ;TPCW
+34;Sailors Manufacturing Equipment  ;340.5;290.4;278.8;Dollar General Corporation    ;2;Manufacturing Equip;A   ;TPCW
+35;Chromium Photo Equipmentment     ;565.5;457.5;425.5;Fedders Corporation           ;1;Photo Equipmentment;A   ;TPCW
+37;Concentrators Polishing Equipment;584.6;524.9;482.9;Immunex Corporation           ;3;Polishing Equipment;A   ;TPCW
+39;Overlays Plastic Supplies        ;301.1;254.4;241.7;Afg Industries Inc.           ;7;Plastic Supplies   ;B   ;TPCW
+43;Blazed Covers                    ;495;416.8;404.3;Afg Industries Inc.           ;13;Covers             ;D   ;TPCW
+44;Birthdays Manufacturing Equipment;196.6;173.2;161.1;First Bancshares Inc Mo       ;2;Manufacturing Equip;A   ;TPCW
+47;Significants Freezing Chemicals  ;141.6;113.2;104.2;Dollar General Corporation    ;11;Freezing Chemicals ;C   ;TPCW
+48;Patriarchal Cleaning Supplies    ;351.5;284.8;264.8;Sinclair Broadcast Group Inc. ;5;Cleaning Supplies  ;B   ;TPCW
+49;Visage Flushing Chemicals        ;567.8;507.6;467;Afg Industries Inc.           ;10;Flushing Chemicals ;C   ;TPCW
+50;Restarts Paper Supplies          ;524.4;448.3;425.9;Specialty Teleconstructors Inc;6;Paper Supplies     ;B   ;TPCW
+53;Ruffle Freezing Chemicals        ;476.4;394.9;379.1;Immunex Corporation           ;11;Freezing Chemicals ;C   ;TPCW
+54;Honeymoon Photo Chemicals        ;326.1;292.2;271.8;Afg Industries Inc.           ;9;Photo Chemicals    ;C   ;TPCW
+56;Allis Polishing Equipmentment    ;201.8;176.3;160.5;American General Ventures Inc ;3;Polishing Equipment;A   ;TPCW
+57;South Tray Supplies              ;241.3;205.1;203.1;Sinclair Broadcast Group Inc. ;8;Tray Supplies      ;B   ;TPCW
+58;Characterization Plastic Supplies;231.7;185.6;168.9;Fedders Corporation           ;7;Plastic Supplies   ;B   ;TPCW
+61;Courthouses Manufacturing Equipme;285.6;243.6;231.4;First Bancshares Inc Mo       ;2;Manufacturing Equip;A   ;TPCW
+64;Berwick Fillers                  ;583.9;487.5;463.1;Dollar General Corporation    ;12;Fillers            ;D   ;TPCW
+67;Occlusion Manufacturing Equipment;199.9;177.3;164.9;Afg Industries Inc.           ;2;Manufacturing Equip;A   ;TPCW
+68;Loaves Polishing Equipmentment   ;425.6;361.3;354.1;Afg Industries Inc.           ;3;Polishing Equipment;A   ;TPCW
+71;Simulations Photo Equipmentment  ;318.4;255.7;245.4;Black Hills Corporation       ;1;Photo Equipmentment;A   ;TPCW
+72;Anthem Tray Supplies             ;134.9;112.4;109;Fedders Corporation           ;8;Tray Supplies      ;B   ;TPCW
+73;Cosgrove Jacks                   ;298.9;267.8;254.4;Afg Industries Inc.           ;15;Jacks              ;D   ;TPCW
+75;Deferrable Freezing Chemicals    ;145;124.4;113.2;Sinclair Broadcast Group Inc. ;11;Freezing Chemicals ;C   ;TPCW
+79;Siena Plastic Supplies           ;155;136.4;132.3;Black Hills Corporation       ;7;Plastic Supplies   ;B   ;TPCW
+83;Horses Lifts                     ;487.3;402.5;366.3;Saurer Gruppe Holding Ag      ;14;Lifts              ;D   ;TPCW
+85;Disallow Manufacturing Equipment ;165.2;145.9;144.4;Dollar General Corporation    ;2;Manufacturing Equip;A   ;TPCW
+89;Travel Paper Supplies            ;129.8;108.8;103.4;Saurer Gruppe Holding Ag      ;6;Paper Supplies     ;B   ;TPCW
+90;Curiouser Cleaning Supplies      ;419.4;364.4;338.9;Dollar General Corporation    ;5;Cleaning Supplies  ;B   ;TPCW
+91;Scribble Plastic Supplies        ;492.4;405.7;397.6;Specialty Teleconstructors Inc;7;Plastic Supplies   ;B   ;TPCW
+92;Behind Tray Supplies             ;166.7;139;129.3;Afg Industries Inc.           ;8;Tray Supplies      ;B   ;TPCW
+93;Bellowing Polishing Equipmentment;502.6;451.3;446.8;First Bancshares Inc Mo       ;3;Polishing Equipment;A   ;TPCW
+98;Barrels Flushing Chemicals       ;135.1;116.6;108.4;Specialty Teleconstructors Inc;10;Flushing Chemicals ;C   ;TPCW
+99;Richards Freezing Chemicals      ;529.4;475.4;470.6;Dollar General Corporation    ;11;Freezing Chemicals ;C   ;TPCW
+100;Pervasively Manufacturing Equipme;374.1;334.9;308.1;American General Ventures Inc ;2;Manufacturing Equip;A   ;TPCW
+101;Optima Cleaning Supplies         ;288.4;255.5;242.8;American General Ventures Inc ;5;Cleaning Supplies  ;B   ;TPCW
+102;Measured Photo Chemicals         ;318.1;270.7;254.4;Immunex Corporation           ;9;Photo Chemicals    ;C   ;TPCW
+104;LCARS Covers                     ;289.4;231.4;211.8;Fedders Corporation           ;13;Covers             ;D   ;TPCW
+105;Just Paper Supplies              ;278.6;201.3;192.7;Afg Industries Inc.           ;6;Paper Supplies     ;B   ;TPCW
